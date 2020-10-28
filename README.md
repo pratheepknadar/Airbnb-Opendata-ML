@@ -6,7 +6,7 @@ In this project I had taken listings data for airbnb from Austin, TX and found i
 ### what to install
 Tableau, Microsoft excel
 
-### where did I get data from ?
+### where to get data from ?
 you can get the Airnbnb's open data from [here](http://insideairbnb.com/get-the-data.html)
 
 ### Approach
